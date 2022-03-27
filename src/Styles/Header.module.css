@@ -1,0 +1,7 @@
+.header_bg{
+    background-image: url("../Assets/hero.png");
+    background-color: #193532;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
